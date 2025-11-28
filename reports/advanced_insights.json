@@ -1,0 +1,52 @@
+{
+    "anomalies_detected": 149,
+    "price_elasticity": [
+        {
+            "Category": "Clothing",
+            "Price Elasticity": -0.003616434851323876,
+            "Interpretation": "Inelastic"
+        },
+        {
+            "Category": "Office Supplies",
+            "Price Elasticity": -0.0137400387821619,
+            "Interpretation": "Inelastic"
+        },
+        {
+            "Category": "Technology",
+            "Price Elasticity": 0.0058527943312440085,
+            "Interpretation": "Inelastic"
+        },
+        {
+            "Category": "Home & Garden",
+            "Price Elasticity": -0.002190636614784893,
+            "Interpretation": "Inelastic"
+        },
+        {
+            "Category": "Furniture",
+            "Price Elasticity": 0.008432751702219556,
+            "Interpretation": "Inelastic"
+        }
+    ],
+    "customer_segments": {
+        "Recency": {
+            "High Value": 190.49635627530364,
+            "Low Value": 842.779012345679,
+            "Mid Value": 224.6163287086446
+        },
+        "Frequency": {
+            "High Value": 5.818623481781376,
+            "Low Value": 2.1753086419753087,
+            "Mid Value": 3.2294557097118464
+        },
+        "Monetary": {
+            "High Value": 9660.688781807054,
+            "Low Value": 2835.0750374695717,
+            "Mid Value": 3623.861060842288
+        },
+        "Customer ID": {
+            "High Value": 1235,
+            "Low Value": 810,
+            "Mid Value": 1874
+        }
+    }
+}
