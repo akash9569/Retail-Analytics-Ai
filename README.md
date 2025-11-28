@@ -124,9 +124,9 @@ Open your browser and navigate to `http://127.0.0.1:8050/`.
 
 ## 📸 Dashboard Preview
 
-### Executive Summary
+### Products Insights
 *High-level KPIs and sales trends with a premium glassmorphism UI.*
-![Executive Summary](docs/images/insights.png)
+![Products Insights](docs/images/insights.png)
 
 ### Business Reports
 *Integrated markdown reports and data download center.*
