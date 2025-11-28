@@ -8,7 +8,7 @@
 
 > A comprehensive end-to-end data analytics solution that analyzes historical retail sales data, identifies key business drivers, and forecasts future demand using advanced time-series modeling.
 
-![Dashboard Preview](docs/images/dashboard_home.png)
+![Dashboard Preview](docs/images/Dashboard_home.png)
 
 ---
 
@@ -126,15 +126,15 @@ Open your browser and navigate to `http://127.0.0.1:8050/`.
 
 ### Executive Summary
 *High-level KPIs and sales trends with a premium glassmorphism UI.*
-![Executive Summary](docs/images/dashboard_home.png)
+![Executive Summary](docs/images/insights.png)
 
 ### Business Reports
 *Integrated markdown reports and data download center.*
-![Reports Page](docs/images/reports_page.png)
+![Reports Page](docs/images/reports.png)
 
 ### System Settings
 *Configuration for model parameters and **Custom Dataset Upload**.*
-![Settings Page](docs/images/settings_page.png)
+![Settings Page](docs/images/settings.png)
 
 ---
 
