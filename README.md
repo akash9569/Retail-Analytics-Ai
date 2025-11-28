@@ -8,7 +8,7 @@
 
 > A comprehensive end-to-end data analytics solution that analyzes historical retail sales data, identifies key business drivers, and forecasts future demand using advanced time-series modeling.
 
-![Dashboard Preview](docs/images/dashboard_home.png)
+![Dashboard Preview](docs/images/dashboard.png)
 
 ---
 
